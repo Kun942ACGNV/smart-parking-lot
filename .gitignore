@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# 虛擬環境
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 執行時產生的狀態檔
+parking_state.json
+*.state.json
+
+# 編輯器 / 作業系統
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+.DS_Store
+Thumbs.db
